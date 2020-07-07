@@ -1,6 +1,6 @@
 <?php
 
-namespace SonsaYT\TempBanUI;
+namespace ikhan2198\Testv2;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Player;
