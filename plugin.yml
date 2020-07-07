@@ -4,3 +4,12 @@ version: 0.0.1
 main: ikhan2198\testplugin\testplugin
 api: 3.8.0
 ...
+
+commands:
+ tb:
+  description: "Open TempBanUI"
+  permission: use.tban
+  
+ tc:
+  description: "Check ban list"
+  permission: use.tcheck
