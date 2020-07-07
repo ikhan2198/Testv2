@@ -1,6 +1,6 @@
 <?php
 
-namespace ikhan2198\Testv2;
+namespace ikhan2198\testv2;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Player;
